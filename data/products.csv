@@ -1,0 +1,61 @@
+product_id,sku,product_name,category,unit_cost,unit_price
+1,PROD-0001,Producto 1,Cuidado Personal,27.45,40.9
+2,PROD-0002,Producto 2,Suplementos,42.45,50.52
+3,PROD-0003,Producto 3,Higiene,46.15,67.38
+4,PROD-0004,Producto 4,Perfumería,9.43,12.54
+5,PROD-0005,Producto 5,Higiene,55.75,78.61
+6,PROD-0006,Producto 6,Dermocosmética,49.72,66.13
+7,PROD-0007,Producto 7,Higiene,34.17,40.32
+8,PROD-0008,Producto 8,Dermocosmética,50.0,70.0
+9,PROD-0009,Producto 9,Cuidado Personal,22.56,34.74
+10,PROD-0010,Producto 10,Suplementos,53.8,78.55
+11,PROD-0011,Producto 11,Suplementos,29.07,34.01
+12,PROD-0012,Producto 12,Cuidado Personal,10.95,15.55
+13,PROD-0013,Producto 13,Perfumería,58.12,74.39
+14,PROD-0014,Producto 14,Suplementos,23.49,31.48
+15,PROD-0015,Producto 15,Suplementos,9.54,12.78
+16,PROD-0016,Producto 16,Cuidado Personal,15.16,21.53
+17,PROD-0017,Producto 17,Perfumería,50.3,71.93
+18,PROD-0018,Producto 18,Higiene,20.12,29.78
+19,PROD-0019,Producto 19,Higiene,24.47,31.08
+20,PROD-0020,Producto 20,Perfumería,41.58,50.31
+21,PROD-0021,Producto 21,Perfumería,2.43,3.55
+22,PROD-0022,Producto 22,Cuidado Personal,40.56,58.0
+23,PROD-0023,Producto 23,Dermocosmética,28.62,39.5
+24,PROD-0024,Producto 24,Suplementos,10.11,12.13
+25,PROD-0025,Producto 25,Higiene,29.32,40.46
+26,PROD-0026,Producto 26,Suplementos,46.37,64.92
+27,PROD-0027,Producto 27,Higiene,34.43,43.73
+28,PROD-0028,Producto 28,Higiene,3.79,5.0
+29,PROD-0029,Producto 29,Perfumería,25.69,38.28
+30,PROD-0030,Producto 30,Dermocosmética,15.57,18.22
+31,PROD-0031,Producto 31,Perfumería,19.03,26.83
+32,PROD-0032,Producto 32,Dermocosmética,34.31,50.09
+33,PROD-0033,Producto 33,Perfumería,25.57,37.84
+34,PROD-0034,Producto 34,Suplementos,11.68,13.55
+35,PROD-0035,Producto 35,Cuidado Personal,43.9,58.39
+36,PROD-0036,Producto 36,Cuidado Personal,11.35,15.32
+37,PROD-0037,Producto 37,Perfumería,42.39,56.38
+38,PROD-0038,Producto 38,Cuidado Personal,24.1,30.61
+39,PROD-0039,Producto 39,Suplementos,22.99,27.36
+40,PROD-0040,Producto 40,Suplementos,8.84,13.53
+41,PROD-0041,Producto 41,Dermocosmética,42.58,53.65
+42,PROD-0042,Producto 42,Perfumería,58.21,84.99
+43,PROD-0043,Producto 43,Dermocosmética,28.06,35.36
+44,PROD-0044,Producto 44,Suplementos,7.59,11.46
+45,PROD-0045,Producto 45,Cuidado Personal,13.74,17.45
+46,PROD-0046,Producto 46,Higiene,35.59,43.42
+47,PROD-0047,Producto 47,Higiene,45.99,66.23
+48,PROD-0048,Producto 48,Perfumería,27.06,37.88
+49,PROD-0049,Producto 49,Cuidado Personal,39.69,46.83
+50,PROD-0050,Producto 50,Higiene,26.12,30.56
+51,PROD-0051,Producto 51,Cuidado Personal,21.13,25.57
+52,PROD-0052,Producto 52,Higiene,8.0,11.12
+53,PROD-0053,Producto 53,Suplementos,55.66,76.81
+54,PROD-0054,Producto 54,Cuidado Personal,22.12,30.75
+55,PROD-0055,Producto 55,Dermocosmética,57.6,77.18
+56,PROD-0056,Producto 56,Cuidado Personal,47.4,55.93
+57,PROD-0057,Producto 57,Dermocosmética,30.46,46.6
+58,PROD-0058,Producto 58,Higiene,35.16,47.11
+59,PROD-0059,Producto 59,Perfumería,21.23,28.87
+60,PROD-0060,Producto 60,Dermocosmética,27.46,31.85
